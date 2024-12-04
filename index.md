@@ -1,7 +1,15 @@
-An h1 header
+Probe Study 0612
 ============
 
-Paragraphs are separated by a blank line.
+Martin Dupras, The Open University (UK)
+----------------------------------------
+
+I'm a postgraduate researcher at the *OU*, researching ways to program computers using instrumental playing as the primary interface. 
+
+This study is a 'technology probes' study which investigates specific aspects of how we would use this kind of interface. If you are interested in being a participant in this study, read the information below, which should give you all you need to know to decide if you'd like to get involved.
+
+What will I need to do?
+-------------------------
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
